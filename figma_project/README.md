@@ -1,15 +1,9 @@
-Clone the repository:
+Clone the repository: git clone https://github.com/mithilprabhu2003/MachineTest.git
 
-git clone https://github.com/your-username/employee-ui-react.git
+Go to project folder: cd MachineTest/figma_project
 
-Navigate to project folder:
+Install dependencies: npm install
 
-cd employee-ui-react
+Run the app: npm run dev
 
-Install dependencies:
-
-npm install
-
-Run the project:
-
-npm run dev
+Open in browser: http://localhost:5173
