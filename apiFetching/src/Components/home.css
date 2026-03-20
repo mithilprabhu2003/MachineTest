@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.filters {
+  display: flex;
+  gap: 10px;
+  padding: 10px;
+}
+
+.filters button {
+  padding: 5px 10px;
+  border: 1px solid #555;
+  background: white;
+  cursor: pointer;
+}
+
+.filters button:hover {
+  background: #ddd;
+}
+
+.card {
+  border: 1px solid #ccc;
+  margin: 10px;
+  padding: 10px;
+}
